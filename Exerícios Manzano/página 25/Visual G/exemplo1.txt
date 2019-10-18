@@ -1,0 +1,17 @@
+algoritmo "CalculoArea"
+
+var
+A:real
+R:real
+inicio
+//Entrada
+escreva("Digite o valor do raio da circunferência: ")
+leia(R)
+
+//Processamento
+A<-3.14159*R^2
+
+//Saída
+escreva ("A area da circunferência é: ",A)
+
+fimalgoritmo

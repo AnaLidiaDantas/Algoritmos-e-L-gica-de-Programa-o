@@ -1,0 +1,24 @@
+algoritmo "Exemplo página 31"
+// Função :
+// Autor :
+// Data : 20/08/2019
+// Seção de Declarações
+var
+salario, novosal: real
+
+inicio
+escreva ("Digite o valor do salario: R$")
+leia (salario)
+
+se (salario<500) entao
+   novosal<-salario*1.15
+senao
+   se (salario<1000) entao
+      novosal<-salario*1.10
+   senao
+      novosal<-salario*1.05
+   fimse
+fimse
+escreva("O salário reajustado é de R$",novosal)
+
+fimalgoritmo

@@ -1,0 +1,5 @@
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 50\ExercícioB\ExercícioB\bin\Debug\ExercícioB.exe.config
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 50\ExercícioB\ExercícioB\bin\Debug\ExercícioB.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 50\ExercícioB\ExercícioB\bin\Debug\ExercícioB.pdb
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 50\ExercícioB\ExercícioB\obj\Debug\ExercícioB.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 50\ExercícioB\ExercícioB\obj\Debug\ExercícioB.pdb

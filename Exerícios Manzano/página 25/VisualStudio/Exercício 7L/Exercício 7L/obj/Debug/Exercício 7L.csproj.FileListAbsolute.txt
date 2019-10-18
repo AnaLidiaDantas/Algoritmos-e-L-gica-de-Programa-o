@@ -1,0 +1,5 @@
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7L\Exercício 7L\bin\Debug\Exercício 7L.exe.config
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7L\Exercício 7L\bin\Debug\Exercício 7L.exe
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7L\Exercício 7L\bin\Debug\Exercício 7L.pdb
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7L\Exercício 7L\obj\Debug\Exercício 7L.exe
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7L\Exercício 7L\obj\Debug\Exercício 7L.pdb

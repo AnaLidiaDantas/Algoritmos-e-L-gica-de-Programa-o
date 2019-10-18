@@ -1,0 +1,6 @@
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\Exemplo Vetor\Exemplo Vetor\bin\Debug\Exemplo Vetor.exe.config
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\Exemplo Vetor\Exemplo Vetor\bin\Debug\Exemplo Vetor.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\Exemplo Vetor\Exemplo Vetor\bin\Debug\Exemplo Vetor.pdb
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\Exemplo Vetor\Exemplo Vetor\obj\Debug\Exemplo Vetor.csprojResolveAssemblyReference.cache
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\Exemplo Vetor\Exemplo Vetor\obj\Debug\Exemplo Vetor.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\Exemplo Vetor\Exemplo Vetor\obj\Debug\Exemplo Vetor.pdb

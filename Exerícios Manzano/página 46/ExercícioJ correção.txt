@@ -1,0 +1,16 @@
+int i=1, v, sv=0;
+double m;
+
+while (i<=70)
+{
+if (i%2==0)
+{
+sv=sv+i;
+si=si+1;
+}
+i++;
+}
+m=sv/si;
+Console.WriteLine("A soma dos valores é: {0}", sv);
+Console.WriteLine("A média dos valores é:{0}", m);
+Console.ReadKey();

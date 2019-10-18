@@ -1,0 +1,12 @@
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\bin\Debug\ExercicioH.exe.config
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\bin\Debug\ExercicioH.exe
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\bin\Debug\ExercicioH.pdb
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\obj\Debug\ExercicioH.csprojResolveAssemblyReference.cache
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\obj\Debug\ExercicioH.exe
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\obj\Debug\ExercicioH.pdb
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\bin\Debug\ExercicioH.exe.config
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\obj\Debug\ExercicioH.exe
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\obj\Debug\ExercicioH.pdb
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\bin\Debug\ExercicioH.exe.config
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\obj\Debug\ExercicioH.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 41\VisualStudio\ExercicioH\ExercicioH\obj\Debug\ExercicioH.pdb

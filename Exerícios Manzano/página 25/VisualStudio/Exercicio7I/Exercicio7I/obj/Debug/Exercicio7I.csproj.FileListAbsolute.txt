@@ -1,0 +1,11 @@
+F:\Algoritmos\Exercicio7I\Exercicio7I\bin\Debug\Exercicio7I.exe.config
+F:\Algoritmos\Exercicio7I\Exercicio7I\bin\Debug\Exercicio7I.exe
+F:\Algoritmos\Exercicio7I\Exercicio7I\bin\Debug\Exercicio7I.pdb
+F:\Algoritmos\Exercicio7I\Exercicio7I\obj\Debug\Exercicio7I.exe
+F:\Algoritmos\Exercicio7I\Exercicio7I\obj\Debug\Exercicio7I.pdb
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercicio7I\Exercicio7I\bin\Debug\Exercicio7I.exe.config
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercicio7I\Exercicio7I\obj\Debug\Exercicio7I.exe
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercicio7I\Exercicio7I\obj\Debug\Exercicio7I.pdb
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercicio7I\Exercicio7I\bin\Debug\Exercicio7I.exe
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercicio7I\Exercicio7I\bin\Debug\Exercicio7I.pdb
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercicio7I\Exercicio7I\obj\Debug\Exercicio7I.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+algoritmo "Exercicio7E"
+
+var
+Prestacao, Valor, Taxa, Tempo:real
+
+inicio
+//Entrada
+escreva ("Digite o valor da prestacao: ")
+leia(Valor)
+
+escreva ("Digite a taxa de atraso: ")
+leia(Taxa)
+
+escreva ("Digite o tempo de atraso: ")
+leia(Tempo)
+
+//Processamento
+Prestacao <- Valor+((Valor*Taxa/100)*Tempo)
+
+//Saida
+escreva("O valor da prestacao com juros é de R$ ",prestacao)
+fimalgoritmo

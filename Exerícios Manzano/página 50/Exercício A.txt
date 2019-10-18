@@ -1,0 +1,23 @@
+página 50
+Exercício A
+
+double q;
+int cont=15;
+
+do {
+q = Math.Pow (cont, 2);
+Console.WriteLine("{0}^2={1}", cont, q);
+cont++;
+} while (cont<=200);
+
+Console.ReadKey();
+
+Exercício B
+
+int cont=1, soma=0;
+
+do
+{
+if (cont%2==0) {
+soma=soma+cont;
+}

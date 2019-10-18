@@ -1,0 +1,22 @@
+algoritmo "Exercício7F"
+
+var
+   A,B,C: inteiro
+   
+inicio
+//Entradas
+Escreva ("Digite o valor de A: ")
+Leia (A)
+Escreva ("Digite o valor de B: ")
+Leia (B)
+
+//Processamento
+C<-B
+B<-A
+A<-C
+
+//Saída
+Escreval ("Após trocar os valores de A e B, o valor de A é ", A)
+Escreval ("O valor de B passa a ser de ",B)
+
+fimalgoritmo

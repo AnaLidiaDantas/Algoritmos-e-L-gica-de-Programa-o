@@ -1,0 +1,21 @@
+algoritmo "exercicio7i"
+
+
+var
+A,B,C :real
+
+inicio
+// Entradas
+Escreva("Digite o valor de A: ")
+leia(A)
+
+Escreva("Digite o valor de B: ")
+leia(B)
+
+//Processamento
+C<-(a-b)^2
+
+//Saida
+Escreva ("O quadrado da diferença de A e B é", C)
+
+fimalgoritmo

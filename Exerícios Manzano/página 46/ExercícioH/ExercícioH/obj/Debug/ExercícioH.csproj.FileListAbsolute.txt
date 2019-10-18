@@ -1,0 +1,6 @@
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 46\ExercícioH\ExercícioH\bin\Debug\ExercícioH.exe.config
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 46\ExercícioH\ExercícioH\bin\Debug\ExercícioH.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 46\ExercícioH\ExercícioH\bin\Debug\ExercícioH.pdb
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 46\ExercícioH\ExercícioH\obj\Debug\ExercícioH.csprojResolveAssemblyReference.cache
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 46\ExercícioH\ExercícioH\obj\Debug\ExercícioH.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 46\ExercícioH\ExercícioH\obj\Debug\ExercícioH.pdb

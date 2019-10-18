@@ -1,0 +1,26 @@
+algoritmo "Exercício7d"
+
+var
+Tempo, Velocidade, Distancia, Litros_Usados: real
+
+inicio
+//Entrada
+Escreva ("Digite o tempo gasto: ")
+Leia (Tempo)
+
+Escreva ("Digite a velocidade média: ")
+Leia (Velocidade)
+
+
+
+//Processamento
+Distancia <- Tempo*Velocidade
+Litros_Usados <- Distancia/12
+
+//Saída
+Escreval("A velocidade média da viagem foi de ", Velocidade, "km/h")
+Escreval ("O tempo gasto na viagem foi de ", Tempo, " horas")
+Escreval ("A distância percorrida foi de ", Distancia, "km")
+Escreval ("Nessa viagem foram gastos ", Litros_Usados, " litros de combustível")
+
+fimalgoritmo

@@ -1,0 +1,19 @@
+if (a>b)
+{
+aux = a;
+a=b;
+b=aux;
+}
+if (a>c)
+{
+aux=a;
+a=c;
+c=aux;
+}
+if (b>c)
+{
+aux=b;
+b=c;
+c=aux;
+Console.WriteLine("Os valores em ordem crescente são {0}, {1} e {2}", a, b, c);
+Console.ReadKey();

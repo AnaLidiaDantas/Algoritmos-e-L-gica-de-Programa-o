@@ -1,0 +1,17 @@
+algoritmo "ExercícioA"
+
+
+var
+C,F:real
+
+inicio
+//Entrada
+Escreva ("Digite uma temperatura em graus Celsius: ")
+leia(C)
+
+ //Processamento
+ F<-(9*C+160)/5
+ 
+ //Saida
+ Escreva ("A temperatura convertida para graus Fahrenheit é: ",F)
+fimalgoritmo

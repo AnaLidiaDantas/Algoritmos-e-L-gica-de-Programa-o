@@ -1,0 +1,6 @@
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioK\ExercícioK\bin\Debug\ExercícioK.exe.config
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioK\ExercícioK\bin\Debug\ExercícioK.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioK\ExercícioK\bin\Debug\ExercícioK.pdb
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioK\ExercícioK\obj\Debug\ExercícioK.csprojResolveAssemblyReference.cache
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioK\ExercícioK\obj\Debug\ExercícioK.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioK\ExercícioK\obj\Debug\ExercícioK.pdb

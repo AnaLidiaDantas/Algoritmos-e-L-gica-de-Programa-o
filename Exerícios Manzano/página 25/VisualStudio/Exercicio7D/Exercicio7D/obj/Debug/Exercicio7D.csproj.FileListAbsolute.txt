@@ -1,0 +1,6 @@
+F:\Algoritmos\Exercicio7D\Exercicio7D\bin\Debug\Exercicio7D.exe.config
+F:\Algoritmos\Exercicio7D\Exercicio7D\obj\Debug\Exercicio7D.csprojResolveAssemblyReference.cache
+F:\Algoritmos\Exercicio7D\Exercicio7D\bin\Debug\Exercicio7D.exe
+F:\Algoritmos\Exercicio7D\Exercicio7D\bin\Debug\Exercicio7D.pdb
+F:\Algoritmos\Exercicio7D\Exercicio7D\obj\Debug\Exercicio7D.exe
+F:\Algoritmos\Exercicio7D\Exercicio7D\obj\Debug\Exercicio7D.pdb

@@ -1,0 +1,6 @@
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7M\Exercício 7M\bin\Debug\Exercício 7M.exe.config
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7M\Exercício 7M\obj\Debug\Exercício 7M.csprojResolveAssemblyReference.cache
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7M\Exercício 7M\bin\Debug\Exercício 7M.exe
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7M\Exercício 7M\bin\Debug\Exercício 7M.pdb
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7M\Exercício 7M\obj\Debug\Exercício 7M.exe
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício 7M\Exercício 7M\obj\Debug\Exercício 7M.pdb

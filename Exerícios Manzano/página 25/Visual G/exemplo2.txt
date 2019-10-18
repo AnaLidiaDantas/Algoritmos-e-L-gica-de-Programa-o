@@ -1,0 +1,25 @@
+algoritmo "SalarioMinimo"
+var
+SB,SL,VH,PD,HT,TD: real
+
+inicio
+//Entradas
+escreva ("Digite as horas trabalhadas: ")
+leia(HT)
+escreva ("Digite o valor da hora: ")
+leia(VH)
+escreva ("Digite o percentual de desconto: ")
+leia(PD)
+
+//Processamento
+SB<-HT*VH
+
+TD<-(PD/100)*SB
+
+SL<-SB-TD
+
+//Saída
+escrevaL ("O salário bruto é de R$ ",SB)
+escrevaL ("O salário líquido é de R$ ",SL)
+
+fimalgoritmo

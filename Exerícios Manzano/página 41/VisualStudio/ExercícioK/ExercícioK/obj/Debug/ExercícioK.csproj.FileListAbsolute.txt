@@ -1,0 +1,6 @@
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioK\ExercícioK\bin\Debug\ExercícioK.exe.config
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioK\ExercícioK\bin\Debug\ExercícioK.exe
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioK\ExercícioK\bin\Debug\ExercícioK.pdb
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioK\ExercícioK\obj\Debug\ExercícioK.csprojResolveAssemblyReference.cache
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioK\ExercícioK\obj\Debug\ExercícioK.exe
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioK\ExercícioK\obj\Debug\ExercícioK.pdb

@@ -1,0 +1,6 @@
+F:\Algoritmos\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+F:\Algoritmos\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+F:\Algoritmos\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+F:\Algoritmos\Exemplo\Exemplo\obj\Debug\Exemplo.csprojResolveAssemblyReference.cache
+F:\Algoritmos\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+F:\Algoritmos\Exemplo\Exemplo\obj\Debug\Exemplo.pdb

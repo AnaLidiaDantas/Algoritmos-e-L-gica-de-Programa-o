@@ -1,0 +1,23 @@
+algoritmo "Exercício7M"
+
+
+var
+A,B,C,D :real
+
+inicio
+// Entradas
+Escreva ("Digite o valor de A: ")
+leia(A)
+
+Escreva ("Digite o valor de B: ")
+leia(B)
+
+Escreva ("Digite o valor de C: ")
+leia(C)
+
+//Processamento
+D<- (A+B+C)^2
+//Saida
+Escreva ("O quadrado da soma é", D)
+
+fimalgoritmo

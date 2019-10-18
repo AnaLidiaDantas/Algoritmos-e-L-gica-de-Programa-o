@@ -1,0 +1,45 @@
+int a, b, c, d, auxmenor, auxmaior;
+auxmaior=0;
+
+"Digite A"
+"Digite B"
+"Digite C"
+"Digite D"
+
+auxmenor=a;
+//maior
+if (a>auxmaior)
+{
+auximaior=a;
+}
+if (b>auximaior)
+{
+auximaior=b;
+}
+if (c>auximaior)
+{
+auximaior=c;
+}
+if (d> auximaior)
+{
+auximaior=d;
+}
+//menor
+if (a<auxmenor)
+{
+auxmenor=a;
+}
+if (b<auxmenor)
+{
+auxmenor=b;
+}
+if (c<auxmenor)
+{
+auxmenor=c;
+}
+if (d<auxmenor)
+{
+auxmenor<d;
+}
+
+Console.WriteLine ("O maior valor é {0} e o menor é {1}", auxmaior, auximenor);

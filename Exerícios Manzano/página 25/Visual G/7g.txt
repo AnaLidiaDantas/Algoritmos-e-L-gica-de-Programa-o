@@ -1,0 +1,49 @@
+algoritmo "Exercicio7G"
+
+var
+A,B,C,D,Soma1,Soma2,Soma3,Soma4,Soma5,Soma6: inteiro
+multi1,multi2,multi3,multi4,multi5,multi6:inteiro
+
+inicio
+// Entrada
+Escreva ("Digite o valor de A: ")
+leia(A)
+
+Escreva ("Digite o valor de B: ")
+leia (B)
+
+Escreva ("Digite o valor de C: ")
+leia (C)
+
+Escreva ("Digite o valor de D: ")
+leia (D)
+ //Processamento
+ soma1<-A+B
+ soma2<-A+C
+ soma3<-A+D
+ soma4<-B+C
+ soma5<-B+D
+ soma6<-C+D
+
+ multi1<-A*B
+ multi2<-A*C
+ multi3<-A*D
+ multi4<-B*C
+ multi5<-B*D
+ multi6<-C*D
+ 
+ //Saídas
+ Escreval ("A soma de A e B é", soma1)
+ Escreval ("A soma de A e C é", soma2)
+ Escreval ("A soma de A e D é", soma3)
+ Escreval ("A soma de B e C é", soma4)
+ Escreval ("A soma de B e D é", soma5)
+ Escreval ("A soma de C e D é", soma6)
+ Escreval ("A multiplicação de A e B é", multi1)
+ Escreval ("A multiplicação de A e C é", multi2)
+ Escreval ("A multiplicação de A e D é", multi3)
+ Escreval ("A multiplicação de B e C é", multi4)
+ Escreval ("A multiplicação de B e D é", multi5)
+ Escreval ("A multiplicação de C e D é", multi6)
+ 
+fimalgoritmo

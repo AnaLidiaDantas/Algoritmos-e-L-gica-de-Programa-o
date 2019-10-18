@@ -1,0 +1,29 @@
+algoritmo "ExercícioC"
+
+var
+N1, N2, N3, N4, Media: real
+
+inicio
+// Entradas
+escreva ("Digite a nota 1: ")
+leia (N1)
+escreva ("Digite a nota 2: ")
+leia (N2)
+escreva ("Digite a nota 3: ")
+leia (N3)
+escreva ("Digite a nota 4: ")
+leia (N4)
+
+//Processamento
+Media<- (N1+N2+N3+N4)/4
+
+//Condição
+se (Media>=5) entao
+   escreval ("Aluno Aprovado")
+   //escreval ("Média do Aluno: ", Media)
+senao
+   escreval ("Aluno Reprovado")
+  // escreval ("Média do Aluno: ",Media)
+fimse
+   escreval ("Média do Aluno: ",Media)
+fimalgoritmo

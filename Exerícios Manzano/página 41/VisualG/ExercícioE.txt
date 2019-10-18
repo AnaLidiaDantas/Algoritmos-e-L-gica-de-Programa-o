@@ -1,0 +1,29 @@
+algoritmo "ExercícioE"
+
+var
+a, b, c, x1, x2, delta: real
+
+
+inicio
+//Entradas
+escreva ("A: ")
+leia (a)
+escreva ("B: ")
+leia (b)
+escreva ("C: ")
+leia (c)
+
+//delta
+delta<-(b^2)-(4*a*c)
+
+
+
+se (delta<0) entao
+   escreva ("Não existem soluções reais para esta equação")
+senao
+   x1<-((-b)+raizq(delta))/(2*a)
+   x2<-((-b)-raizq(delta))/(2*a)
+   escreval("X1: ", x1)
+   escreval("X2: ", x2)
+fimse
+fimalgoritmo

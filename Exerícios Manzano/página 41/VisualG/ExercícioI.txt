@@ -1,0 +1,16 @@
+algoritmo "ExercícioI"
+
+var A: inteiro
+
+inicio
+// Seção de Comandos
+escreva("Digite um número inteiro: ")
+leia(A)
+
+//Processamento
+se (A mod 2=0) entao
+escreva("O número é par.")
+senao
+escreva ("O número não é par.")
+fimse
+fimalgoritmo

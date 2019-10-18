@@ -1,0 +1,5 @@
+F:\Algoritmos\Exercicio7B\Exercicio7B\bin\Debug\Exercicio7B.exe.config
+F:\Algoritmos\Exercicio7B\Exercicio7B\bin\Debug\Exercicio7B.exe
+F:\Algoritmos\Exercicio7B\Exercicio7B\bin\Debug\Exercicio7B.pdb
+F:\Algoritmos\Exercicio7B\Exercicio7B\obj\Debug\Exercicio7B.exe
+F:\Algoritmos\Exercicio7B\Exercicio7B\obj\Debug\Exercicio7B.pdb

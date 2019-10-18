@@ -1,0 +1,8 @@
+F:\Algoritmos\Exercício7F\Exercício7F\bin\Debug\Exercício7F.exe.config
+F:\Algoritmos\Exercício7F\Exercício7F\bin\Debug\Exercício7F.exe
+F:\Algoritmos\Exercício7F\Exercício7F\bin\Debug\Exercício7F.pdb
+F:\Algoritmos\Exercício7F\Exercício7F\obj\Debug\Exercício7F.exe
+F:\Algoritmos\Exercício7F\Exercício7F\obj\Debug\Exercício7F.pdb
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício7F\Exercício7F\bin\Debug\Exercício7F.exe.config
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício7F\Exercício7F\obj\Debug\Exercício7F.exe
+F:\Algoritmos\Exerícios Manzano\VisualStudio\Exercício7F\Exercício7F\obj\Debug\Exercício7F.pdb

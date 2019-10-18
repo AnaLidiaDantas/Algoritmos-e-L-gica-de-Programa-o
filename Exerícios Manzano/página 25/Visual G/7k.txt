@@ -1,0 +1,19 @@
+algoritmo "Exercício7K"
+
+var
+CotacaoDolar, Dolares, Reais: real
+
+inicio
+// Entradas
+Escreva ("Digite a cotação atual do dolar: ")
+Leia (CotacaoDolar)
+Escreva ("Digite o valor em reais que deseja converter: ")
+Leia (Reais)
+
+//Processamento
+Dolares<- (Reais/CotacaoDolar)
+
+//Saída
+Escreva ("O valor convertido para dolares é $", Dolares)
+
+fimalgoritmo

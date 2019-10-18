@@ -1,0 +1,17 @@
+algoritmo "Exercício3B"
+
+var
+A:inteiro
+
+inicio
+//Entrada
+escreva ("Digite um número inteiro: ")
+leia (A)
+
+//Decisão
+se (A<0) entao
+A<-A*(-1)
+fimse
+//Saída
+escreva ("O módulo do número digitado é: ",A)
+fimalgoritmo

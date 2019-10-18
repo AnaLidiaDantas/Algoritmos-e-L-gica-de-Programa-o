@@ -1,0 +1,9 @@
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\Exerciciog\Exerciciog\bin\Debug\Exerciciog.exe.config
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\Exerciciog\Exerciciog\obj\Debug\Exerciciog.csprojResolveAssemblyReference.cache
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\Exerciciog\Exerciciog\bin\Debug\Exerciciog.exe
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\Exerciciog\Exerciciog\bin\Debug\Exerciciog.pdb
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\Exerciciog\Exerciciog\obj\Debug\Exerciciog.exe
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\Exerciciog\Exerciciog\obj\Debug\Exerciciog.pdb
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 41\VisualStudio\ExercícioG\Exerciciog\bin\Debug\Exerciciog.exe.config
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 41\VisualStudio\ExercícioG\Exerciciog\obj\Debug\Exerciciog.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 41\VisualStudio\ExercícioG\Exerciciog\obj\Debug\Exerciciog.pdb

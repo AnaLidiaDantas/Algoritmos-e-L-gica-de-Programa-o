@@ -1,0 +1,6 @@
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioG\ExercícioG\bin\Debug\ExercícioG.exe.config
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioG\ExercícioG\obj\Debug\ExercícioG.csprojResolveAssemblyReference.cache
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioG\ExercícioG\bin\Debug\ExercícioG.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioG\ExercícioG\bin\Debug\ExercícioG.pdb
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioG\ExercícioG\obj\Debug\ExercícioG.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioG\ExercícioG\obj\Debug\ExercícioG.pdb

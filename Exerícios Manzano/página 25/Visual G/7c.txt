@@ -1,0 +1,19 @@
+algoritmo "Exercicio7c"
+
+var
+V, R, A:real
+inicio
+//Entrada
+Escreva ("Digite o valor do raio: ")
+leia(r)
+
+Escreva ("Digite o valor da altura: ")
+leia (A)
+
+//Processamento
+V <- (3.1415*r^2)*A
+
+//Saida
+Escreva ("O volume é de: ", V)
+
+fimalgoritmo

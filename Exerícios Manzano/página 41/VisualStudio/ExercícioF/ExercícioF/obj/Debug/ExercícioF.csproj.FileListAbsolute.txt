@@ -1,0 +1,6 @@
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioF\ExercícioF\bin\Debug\ExercícioF.exe.config
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioF\ExercícioF\obj\Debug\ExercícioF.csprojResolveAssemblyReference.cache
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioF\ExercícioF\bin\Debug\ExercícioF.exe
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioF\ExercícioF\bin\Debug\ExercícioF.pdb
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioF\ExercícioF\obj\Debug\ExercícioF.exe
+G:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioF\ExercícioF\obj\Debug\ExercícioF.pdb

@@ -1,0 +1,21 @@
+algoritmo "Exercício7H"
+
+var
+Volume, Comprimento, Altura, Largura: real
+
+inicio
+// Entradas
+Escreva ("Digite o valor do comprimento: ")
+Leia (Comprimento)
+Escreva ("Digite o valor da largura: ")
+Leia (Largura)
+Escreva ("Digite o valor da altura: ")
+Leia (Altura)
+
+//Processamento
+Volume<-Comprimento*Altura*Largura
+
+//Saída
+Escreva ("O volume do retângulo é", Volume, "m³")
+
+fimalgoritmo

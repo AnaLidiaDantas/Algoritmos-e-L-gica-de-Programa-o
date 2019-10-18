@@ -1,0 +1,9 @@
+F:\Algoritmos\Exerícios Manzano\4.7\VisualStudio\ExercícioB\ExercícioB\bin\Debug\ExercícioB.exe.config
+F:\Algoritmos\Exerícios Manzano\4.7\VisualStudio\ExercícioB\ExercícioB\bin\Debug\ExercícioB.exe
+F:\Algoritmos\Exerícios Manzano\4.7\VisualStudio\ExercícioB\ExercícioB\bin\Debug\ExercícioB.pdb
+F:\Algoritmos\Exerícios Manzano\4.7\VisualStudio\ExercícioB\ExercícioB\obj\Debug\ExercícioB.csprojResolveAssemblyReference.cache
+F:\Algoritmos\Exerícios Manzano\4.7\VisualStudio\ExercícioB\ExercícioB\obj\Debug\ExercícioB.exe
+F:\Algoritmos\Exerícios Manzano\4.7\VisualStudio\ExercícioB\ExercícioB\obj\Debug\ExercícioB.pdb
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioB\ExercícioB\bin\Debug\ExercícioB.exe.config
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioB\ExercícioB\obj\Debug\ExercícioB.exe
+F:\Algoritmos\Exerícios Manzano\página 41\VisualStudio\ExercícioB\ExercícioB\obj\Debug\ExercícioB.pdb

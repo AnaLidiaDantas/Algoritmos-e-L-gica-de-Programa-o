@@ -1,0 +1,6 @@
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioJ\ExercícioJ\bin\Debug\ExercícioJ.exe.config
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioJ\ExercícioJ\obj\Debug\ExercícioJ.csprojResolveAssemblyReference.cache
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioJ\ExercícioJ\bin\Debug\ExercícioJ.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioJ\ExercícioJ\bin\Debug\ExercícioJ.pdb
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioJ\ExercícioJ\obj\Debug\ExercícioJ.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 66\ExercícioJ\ExercícioJ\obj\Debug\ExercícioJ.pdb

@@ -1,0 +1,15 @@
+Exemplo de aplicação de CONT
+
+
+int tab, cont=1, r;
+
+Console.Write("Digite a tabuada desejada: ");
+tab=int.Parse(Console.ReadLine());
+
+while (cont<=10)
+{
+r = tab * cont;
+Console.WriteLine(" {0} X {1} = {2}", tab, cont, r);
+cont ++;
+}
+Console.ReadKey;

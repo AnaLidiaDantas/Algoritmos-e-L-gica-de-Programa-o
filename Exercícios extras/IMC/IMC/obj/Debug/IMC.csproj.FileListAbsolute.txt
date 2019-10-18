@@ -1,0 +1,6 @@
+G:\Algoritmos\Exerícios Manzano\Exercícios extras\IMC\IMC\bin\Debug\IMC.exe.config
+G:\Algoritmos\Exerícios Manzano\Exercícios extras\IMC\IMC\obj\Debug\IMC.csprojResolveAssemblyReference.cache
+G:\Algoritmos\Exerícios Manzano\Exercícios extras\IMC\IMC\bin\Debug\IMC.exe
+G:\Algoritmos\Exerícios Manzano\Exercícios extras\IMC\IMC\bin\Debug\IMC.pdb
+G:\Algoritmos\Exerícios Manzano\Exercícios extras\IMC\IMC\obj\Debug\IMC.exe
+G:\Algoritmos\Exerícios Manzano\Exercícios extras\IMC\IMC\obj\Debug\IMC.pdb

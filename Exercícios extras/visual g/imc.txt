@@ -1,0 +1,28 @@
+algoritmo "IMC"
+
+var
+peso, altura, imc: real
+inicio
+// Seção de Comandos
+escreva("Digite o peso: ")
+leia(peso)
+escreva("Digite a altura: ")
+leia(altura)
+
+imc<-peso/altura^2
+
+se (imc<19)entao
+   escreval("Abaixo do peso")
+senao
+   se (imc<24)entao
+      escreval("Peso normal")
+   senao
+      se (imc<27) entao
+         escreval("Acima do peso")
+      senao
+         escreval("Obesidade")
+      fimse
+   fimse
+fimse
+escreval("IMC = ",imc)
+fimalgoritmo

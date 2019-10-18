@@ -1,0 +1,8 @@
+c:\users\24102.etecpaof.004\documents\visual studio 2015\Projects\ExercícioE\ExercícioE\bin\Debug\ExercícioE.exe.config
+c:\users\24102.etecpaof.004\documents\visual studio 2015\Projects\ExercícioE\ExercícioE\bin\Debug\ExercícioE.exe
+c:\users\24102.etecpaof.004\documents\visual studio 2015\Projects\ExercícioE\ExercícioE\bin\Debug\ExercícioE.pdb
+c:\users\24102.etecpaof.004\documents\visual studio 2015\Projects\ExercícioE\ExercícioE\obj\Debug\ExercícioE.exe
+c:\users\24102.etecpaof.004\documents\visual studio 2015\Projects\ExercícioE\ExercícioE\obj\Debug\ExercícioE.pdb
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioE\ExercícioE\bin\Debug\ExercícioE.exe.config
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioE\ExercícioE\obj\Debug\ExercícioE.exe
+F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioE\ExercícioE\obj\Debug\ExercícioE.pdb
