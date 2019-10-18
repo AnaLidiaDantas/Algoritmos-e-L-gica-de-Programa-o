@@ -10,29 +10,34 @@ namespace ExercícioJ
     {
         static void Main(string[] args)
         {
-            int x;
-            double[] a = new double[12];
-            double[] b = new double[12];
+            int i=0, j=0, x;
+            double[] a = new double[6];
+            double[] b = new double[6];
             double[] c = new double[12];
-            double[] z = new double[12];
-            for (x = 0; x < 12; x++)
-            {
-                Console.Write("Digite o {0}º valor:", x + 1);
-                z[x] = double.Parse(Console.ReadLine());
-                if (z[x] % 2 == 0)
+            
+            while ((i < 6) || (j < 6))
+           {
+                Console.Write("Digite um valor:");
+
+                x = int.Parse(Console.ReadLine());
+
+                if ((x % 2 == 0) && (i < 6))
                 {
-                    a[x] = z[x];
+                    a[i] = x;
+                    c[i] = a[i];
+                    i++;
                 }
-                else
-                {
-                    b[x] = z[x];
+                if ((x % 2!=0)&& (j < 6)){
+                     b[j] = x;
+                     c[j + 6] = b[j];
+                     j++;
                 }
             }
-           for (x = 0; x < 12; x++)
+            for (i = 0; i < 12; i++)
             {
-                Console.WriteLine("A = {0}", a[x]);
-                Console.WriteLine("B = {0}", b[x]);
+                Console.WriteLine("C[{0}]={1}", i + 1, c[i]);
             }
+                
             Console.ReadKey();
         }
     }

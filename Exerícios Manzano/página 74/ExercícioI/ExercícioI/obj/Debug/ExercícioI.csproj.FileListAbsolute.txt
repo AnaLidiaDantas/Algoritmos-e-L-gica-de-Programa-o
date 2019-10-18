@@ -4,3 +4,6 @@ F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\Exercíci
 F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioI\ExercícioI\bin\Debug\ExercícioI.pdb
 F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioI\ExercícioI\obj\Debug\ExercícioI.exe
 F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioI\ExercícioI\obj\Debug\ExercícioI.pdb
+F:\Algoritmos e Lógica de Programação\Algoritmos-e-L-gica-de-Programa-o\Exerícios Manzano\página 74\ExercícioI\ExercícioI\bin\Debug\ExercícioI.exe.config
+F:\Algoritmos e Lógica de Programação\Algoritmos-e-L-gica-de-Programa-o\Exerícios Manzano\página 74\ExercícioI\ExercícioI\obj\Debug\ExercícioI.exe
+F:\Algoritmos e Lógica de Programação\Algoritmos-e-L-gica-de-Programa-o\Exerícios Manzano\página 74\ExercícioI\ExercícioI\obj\Debug\ExercícioI.pdb

@@ -6,3 +6,6 @@ c:\users\24102.etecpaof.004\documents\visual studio 2015\Projects\ExercícioD\Ex
 F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioD\ExercícioD\bin\Debug\ExercícioD.exe.config
 F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioD\ExercícioD\obj\Debug\ExercícioD.exe
 F:\Algoritmos e Lógica de Programação\Exerícios Manzano\página 74\ExercícioD\ExercícioD\obj\Debug\ExercícioD.pdb
+F:\Algoritmos e Lógica de Programação\Algoritmos-e-L-gica-de-Programa-o\Exerícios Manzano\página 74\ExercícioD\ExercícioD\bin\Debug\ExercícioD.exe.config
+F:\Algoritmos e Lógica de Programação\Algoritmos-e-L-gica-de-Programa-o\Exerícios Manzano\página 74\ExercícioD\ExercícioD\obj\Debug\ExercícioD.exe
+F:\Algoritmos e Lógica de Programação\Algoritmos-e-L-gica-de-Programa-o\Exerícios Manzano\página 74\ExercícioD\ExercícioD\obj\Debug\ExercícioD.pdb
