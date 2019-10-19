@@ -4,3 +4,6 @@ F:\Algoritmos e Lógica de Programação\Exercícios extras\Atividades\Atividade
 F:\Algoritmos e Lógica de Programação\Exercícios extras\Atividades\Atividade1\Atividade1\obj\Debug\Atividade1.csprojResolveAssemblyReference.cache
 F:\Algoritmos e Lógica de Programação\Exercícios extras\Atividades\Atividade1\Atividade1\obj\Debug\Atividade1.exe
 F:\Algoritmos e Lógica de Programação\Exercícios extras\Atividades\Atividade1\Atividade1\obj\Debug\Atividade1.pdb
+F:\Algoritmos e Lógica de Programação\Algoritmos-e-L-gica-de-Programa-o\Exercícios extras\Atividades\Atividade1\Atividade1\bin\Debug\Atividade1.exe.config
+F:\Algoritmos e Lógica de Programação\Algoritmos-e-L-gica-de-Programa-o\Exercícios extras\Atividades\Atividade1\Atividade1\obj\Debug\Atividade1.exe
+F:\Algoritmos e Lógica de Programação\Algoritmos-e-L-gica-de-Programa-o\Exercícios extras\Atividades\Atividade1\Atividade1\obj\Debug\Atividade1.pdb
