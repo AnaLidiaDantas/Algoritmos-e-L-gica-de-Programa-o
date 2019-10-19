@@ -24,7 +24,7 @@ namespace Atividade2
             {
                 if (salario[i] < x)
                 {
-                    salario[i] = salario[i] + (salario[i] * 0.1);
+                    salario[i] = salario[i] *1.1;
         }
         else{
         salario[i]=salario[i];

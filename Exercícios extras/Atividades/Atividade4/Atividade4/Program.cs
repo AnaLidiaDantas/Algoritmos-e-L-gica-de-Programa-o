@@ -31,7 +31,7 @@ namespace Atividade4
             }
             for (y=0; y<x; y++)
             {
-                media[y] = (g1[y] + g2[y]) / x;
+                media[y] = (g1[y] + g2[y]) / 2;
                 Console.WriteLine("Aluno {0} --> G1 = {1} - - G2 = {2} - - Média = {3}", y + 1, g1[y], g2[y], media[y]);
             }
             Console.ReadKey();

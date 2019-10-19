@@ -26,7 +26,7 @@ namespace Atividade1
                     maior = salario[x];
                 }
                             }
-            Console.Write("{0}", maior);
+            Console.Write("O maior salário é {0}", maior);
             Console.ReadKey();
         }
     }
