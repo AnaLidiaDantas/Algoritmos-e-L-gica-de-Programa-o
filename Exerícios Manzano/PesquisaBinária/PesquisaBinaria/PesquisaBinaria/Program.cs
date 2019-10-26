@@ -80,9 +80,8 @@ namespace PesquisaBinaria
                     }
                     Console.WriteLine("Deseja continuar? [sim/nao] ");
                     resp = Console.ReadLine();
-                 Console.ReadKey();
-            }
-           
+               }
+            Console.ReadKey();
 
         }
     }
