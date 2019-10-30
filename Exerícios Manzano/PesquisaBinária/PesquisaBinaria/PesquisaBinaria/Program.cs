@@ -36,11 +36,11 @@ namespace PesquisaBinaria
                 }
             }
 
-            /*Mostrar
+            //Mostrar
             for (i = 0; i <= 9; i++)
             {
                 Console.WriteLine("Número {0} = {1}", i + 1, num[i]);
-            }*/
+            }
 
             //Pesquisa
             while (resp == "sim")
